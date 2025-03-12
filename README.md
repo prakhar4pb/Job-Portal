@@ -1,4 +1,4 @@
-# Online Job Portal
+# Job Portal
 
 This is a simple online job portal built with HTML, CSS, JavaScript, PHP, and SQL. The website allows users to sign up, log in, search for jobs, and apply for positions.
 
