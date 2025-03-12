@@ -36,8 +36,8 @@ The database contains the following tables:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Ritik930/Online-job-portal/tree/main
-   cd Online_Job_Portal
+   git clone (https://github.com/prakhar4pb/Job-Portal/tree/main)
+   cd Job_Portal
    ```
 
 2. **Database Setup:**
